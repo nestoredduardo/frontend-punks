@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 
 const Home = () => {
   return <h1>Hello Web 3.0</h1>
